@@ -71,7 +71,7 @@ class Portrait extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             ClipRRect(
-              borderRadius: BorderRadius.circular(10),
+              borderRadius: BorderRadius.circular(15),
               child: Image.network(
                 "https://ca.slack-edge.com/T05FFAA91JP-U05RC8CEWPL-704081094ffc-512",
                 height: height / 1.5,
