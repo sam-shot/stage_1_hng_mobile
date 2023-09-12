@@ -8,7 +8,7 @@ This is my HNG internship project, a mobile application that showcases the follo
 
 ## Try It Out
 
-You can try out my application by clicking on the following link: [Try My App on Appetize]("https://appetize.io/app/sqwqkxvcchsg2pzpkvwqik5hjq?device=pixel4&osVersion=11.0&scale=75")
+You can try out my application by clicking on the following link: [Try My App on Appetize](https://appetize.io/app/sqwqkxvcchsg2pzpkvwqik5hjq?device=pixel4&osVersion=11.0&scale=75)
 
 ## Project Details
 
@@ -29,6 +29,6 @@ You can try out my application by clicking on the following link: [Try My App on
 
 To evaluate my project, you can:
 - Access the source code on my [GitHub repository](https://github.com/sam-shot/hng_stage1_mobile).
-- Test the app on Appetize by following this [link]("https://appetize.io/app/sqwqkxvcchsg2pzpkvwqik5hjq?device=pixel4&osVersion=11.0&scale=75").
+- Test the app on Appetize by following this [link](https://appetize.io/app/sqwqkxvcchsg2pzpkvwqik5hjq?device=pixel4&osVersion=11.0&scale=75).
 
 Thank you for reviewing my project, and I appreciate your feedback!
